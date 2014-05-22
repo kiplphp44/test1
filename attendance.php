@@ -17,7 +17,7 @@ else
 }
 }
 ?>
-<section id="page">
+<section id="page id">
 <header id="pageheader" class="normalheader">
 <h2 class="sitedescription">
 Dashboard.  </h2>
